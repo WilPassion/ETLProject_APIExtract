@@ -23,5 +23,4 @@ Demonstrar a construção de um processo ETL completo usando apenas bibliotecas 
 
 ## 🔗 Fonte dos Dados
 
-Os dados são obtidos a partir da seguinte API pública:
-
+Os dados são obtidos a partir da seguinte API pública:   
